@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.f819aa72.css",
+    "main.js": "/weatherapp/static/js/main.9a48fd66.js",
+    "static/js/787.13d76ca7.chunk.js": "/weatherapp/static/js/787.13d76ca7.chunk.js",
+    "static/media/clouds.png": "/weatherapp/static/media/clouds.9d7aa7f81020a9e7e48b.png",
+    "static/media/sun.png": "/weatherapp/static/media/sun.0c1370787846b8d73c6e.png",
+    "static/media/moon.jpg": "/weatherapp/static/media/moon.7d289c8960c7a629e331.jpg",
+    "static/media/thunder.png": "/weatherapp/static/media/thunder.f2356c734e24c7da21cc.png",
+    "static/media/vesibilit.png": "/weatherapp/static/media/vesibilit.3444eff1633b240b7b57.png",
+    "static/media/humidity.png": "/weatherapp/static/media/humidity.6e31d4360ecf688ba0f7.png",
+    "static/media/cloud.png": "/weatherapp/static/media/cloud.697b57a0a9c8b98b0ae6.png",
+    "static/media/party.png": "/weatherapp/static/media/party.4f8946e739b0a62d7af9.png",
+    "static/media/rain.png": "/weatherapp/static/media/rain.51f4fabaa9b1855921ac.png",
+    "static/media/pressur.png": "/weatherapp/static/media/pressur.f84ba9cf8eae94a4dac6.png",
+    "index.html": "/weatherapp/index.html",
+    "main.f819aa72.css.map": "/weatherapp/static/css/main.f819aa72.css.map",
+    "main.9a48fd66.js.map": "/weatherapp/static/js/main.9a48fd66.js.map",
+    "787.13d76ca7.chunk.js.map": "/weatherapp/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f819aa72.css",
+    "static/js/main.9a48fd66.js"
+  ]
+}
